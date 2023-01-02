@@ -22,6 +22,11 @@
 
 ✔ Branch
 ---
-master : 최종 브랜치
-release : master 브랜치에 merge하기 전의 브랜치
-feature : 각 개발자가 기능을 개발하는 브랜치
+- master : 최종 브랜치
+- release : master 브랜치에 merge하기 전의 브랜치
+- feature : 각 개발자가 기능을 개발하는 브랜치
+
+✔ Rule
+---
+1) 기본적으로 Agile Methodology를 활용하여 사소한 기능을 작업하더라도 확실하게 개발하는 방식으로 개발을 한다.
+2) Branch Merge는 매주 목요일 23:00에 진행하는 동시에 Pull Request를 생성한다. (회의를 마치면서 서로의 확인하에 merge 진행)
