@@ -29,4 +29,5 @@
 ✔ Rule
 ---
 1) 기본적으로 Agile Methodology를 활용하여 사소한 기능을 작업하더라도 확실하게 개발하는 방식으로 개발을 한다.
-2) Branch Merge는 매주 목요일 23:00에 진행하는 동시에 Pull Request를 생성한다. (회의를 마치면서 서로의 확인하에 merge 진행)
+2) 개발을 시작할 때에는 release 브랜치로부터 새로운 브랜치인 feature 브랜치를 생성하여 개발한다.
+3) Branch Merge는 매주 목요일 23:00에 진행하는 동시에 Pull Request를 생성한다. (회의를 마치면서 서로의 확인하에 merge 진행)
